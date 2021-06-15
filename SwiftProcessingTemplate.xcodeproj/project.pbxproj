@@ -26,6 +26,7 @@
 		1F53B8672677F3080000045F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F53B8692677F3080000045F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F53B8702677F3260000045F /* SwiftProcessing */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SwiftProcessing; path = ../SwiftProcessing; sourceTree = "<group>"; };
+		1FA1C4282679011F00F29477 /* GettingStarted.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GettingStarted.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		1F53B84F2677F3070000045F = {
 			isa = PBXGroup;
 			children = (
+				1FA1C4282679011F00F29477 /* GettingStarted.playground */,
 				1F53B8702677F3260000045F /* SwiftProcessing */,
 				1F53B85A2677F3070000045F /* SwiftProcessingTemplate */,
 				1F53B8592677F3070000045F /* Products */,
