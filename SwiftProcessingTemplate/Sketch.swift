@@ -10,6 +10,7 @@ class MySketch: Sketch, SketchDelegate {
     }
     
     func draw() {
+        circle(touchX, touchY, 25)
     }
 }
 
