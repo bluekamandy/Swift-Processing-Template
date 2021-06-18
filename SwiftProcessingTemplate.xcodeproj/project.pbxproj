@@ -17,6 +17,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F2C7243267BC4130062E53F /* GettingStarted.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GettingStarted.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1F2C7245267BC5120062E53F /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1F2C7249267BC7C70062E53F /* Framework.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Framework.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1F53B8582677F3070000045F /* SwiftProcessingTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftProcessingTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F53B85B2677F3070000045F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1F53B85D2677F3070000045F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -43,6 +46,7 @@
 		1F53B84F2677F3070000045F = {
 			isa = PBXGroup;
 			children = (
+				1F2C7245267BC5120062E53F /* MyPlayground.playground */,
 				1F53B8702677F3260000045F /* SwiftProcessing */,
 				1F53B85A2677F3070000045F /* SwiftProcessingTemplate */,
 				1F53B8592677F3070000045F /* Products */,
@@ -61,6 +65,7 @@
 		1F53B85A2677F3070000045F /* SwiftProcessingTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				1F2C7243267BC4130062E53F /* GettingStarted.playground */,
 				1F53B85B2677F3070000045F /* AppDelegate.swift */,
 				1F53B85D2677F3070000045F /* SceneDelegate.swift */,
 				1F53B85F2677F3070000045F /* Sketch.swift */,
@@ -75,6 +80,7 @@
 		1F53B8722677F3390000045F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				1F2C7249267BC7C70062E53F /* Framework.playground */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
